@@ -39,4 +39,7 @@ def main():
 
 if __name__ == "__main__":
     # comentário de teste
+    # Mais um comentário de teste
+    # C:\git-profiles\switch-git-user.ps1 pessoal
+    # C:\git-profiles\switch-git-user.ps1 trabalho
     main()
