@@ -94,6 +94,12 @@ gh repo create
 
 ---
 
+## ⭐ Criar o Repositório no GitHub e Enviar via Argumentos e Flags ⭐
+
+```bash
+gh repo create --source=. --private --push
+```
+
 ## 🎯 Resumo Visual do Fluxo
 
 ```
