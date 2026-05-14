@@ -25,7 +25,8 @@ def main():
         description="Cria múltiplas pastas de projeto na pasta pai"
     )
     parser.add_argument(
-        "-n", "--num-projects",
+        "-n",
+        "--num-projects",
         type=int,
         default=5,
         help="Número de projetos a criar (padrão: 5)"
